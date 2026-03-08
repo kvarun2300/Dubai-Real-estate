@@ -9,7 +9,7 @@ However, raw housing datasets often contain inconsistencies, missing values, and
 This project aims to build an interactive Power BI dashboard that analyzes Dubai housing data and provides actionable insights into property prices, property distribution, and investment opportunities. By performing data cleaning, feature engineering, and visualization, the dashboard helps stakeholders easily explore real estate trends and make better decisions.
 
 Project Workflow / Steps Involved
-1. Data Collection
+### 1. Data Collection
 
 The dataset contains information about Dubai housing properties with attributes such as:
 
@@ -31,7 +31,7 @@ Year Built
 
 Furnishing Status
 
-2. Data Cleaning and Preparation (Power Query)
+### 2. Data Cleaning and Preparation (Power Query)
 
 The raw dataset was cleaned and transformed before analysis.
 
@@ -49,7 +49,7 @@ Categorical → property type, location
 
 Standardized column names for consistency
 
-3. Feature Engineering
+### 3. Feature Engineering
 
 New calculated fields were created to enrich the dataset and support better analysis.
 
@@ -71,7 +71,7 @@ Mid-Range
 
 High-End
 
-4. Data Modeling
+### 4. Data Modeling
 
 The cleaned and enriched dataset was loaded into Power BI where:
 
@@ -81,7 +81,7 @@ Measures and aggregations were created
 
 Dataset optimized for visualization
 
-5. Dashboard Development
+### 5. Dashboard Development
 
 An interactive Power BI dashboard was created containing multiple analytical visuals.
 
@@ -121,7 +121,7 @@ Treemap
 
 Property listings by developer and property type.
 
-6. Interactivity Features
+### 6. Interactivity Features
 
 To enhance user experience, the dashboard includes:
 
@@ -141,7 +141,7 @@ Dynamic tooltips showing price per sqft
 
 Drill-down capabilities for deeper insights
 
-7. Insights and Business Value
+### 7. Insights and Business Value
 
 The dashboard enables users to:
 
